@@ -1,1 +1,2 @@
-# Module_6_Challenge
+# Description
+In this challenge we needed to get a list of randomly assigned Lat and Lon then configure them into cities. We then got rid of cities that didnt have a hotel name, and that did not have the desired temp that we wanted for our vacation. After finding the list of cities that meet our requirments we then make a map of the world with those cities. We find 4 destinations that are close enough together in the same coutnry to travel to. We make a routed map to show where we go via driving so we have directions for our itinerary. Now we have our trip planned!
